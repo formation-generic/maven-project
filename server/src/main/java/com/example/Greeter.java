@@ -1,11 +1,13 @@
 package com.example;
 
-private String myString;
+
 
 /**
  * This is a class.
  */
 public class Greeter {
+  
+  private String myString;
 
   /**
    * This is a constructor.
