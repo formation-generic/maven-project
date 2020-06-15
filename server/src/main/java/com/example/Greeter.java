@@ -1,5 +1,7 @@
 package com.example;
 
+private String myString;
+
 /**
  * This is a class.
  */
